@@ -1,0 +1,20 @@
+.center{text-align: center;}
+
+.account .actlist{width: 100%; border-bottom: 1px solid #ccc;}
+.account .actlist .rel{width: 80%;margin: 0 auto;position: relative; font-size: 1.2em;padding: 5% 0;color: #999;}
+.account .actlist .rel strong{font-size: 1.3em;margin-left: 5%;color: #000;}
+.account .actlist .rel strong.money{font-size: 2em;}
+.account .actlist .tip{width: 80%;margin: 0 auto;padding: 5% 0; color: #999}
+.account #submit{width: 85%;margin: 0 auto;margin-top: 3%; background-color: #999; border: 0px;}
+.account strong{text-decoration: none;border: 0;}
+
+.ui-body p img{width: 100%;}
+.detailform .mt14p {margin-top: 50px;}
+
+.account .rel .angle-right{font-size: 1.5em; color:#999;margin: 0;padding: 0;line-height: 1em; float: right; width: 10%;text-align: right; }
+
+#content{list-style: none;margin: 0;padding: 0;width: 100%;} 
+#content li{border-bottom: 1px solid #ccc;padding: 1em 0;}
+#content li div{padding: 0.2em 10%;color: #999}
+#content li div.tit{font-size: 1.2em;color:#000 }
+
