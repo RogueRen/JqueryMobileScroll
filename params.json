@@ -1,0 +1,1 @@
+{"name":"Jquerymobilescroll","tagline":"基于jquerymobile手机滚动加载","body":"JqueryMobileScroll\r\n==================\r\n\r\n基于jquerymobile手机滚动加载\r\n\r\njs/ 包含了jquery、jquerymobile 框架\r\n\r\ndemo.html 演示滑动加载（滚动加载的JS代码在页面底部）\r\n\r\nlist.html 异步请求的演示数据","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
